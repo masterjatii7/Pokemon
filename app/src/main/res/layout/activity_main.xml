@@ -27,7 +27,7 @@
         android:text="About Me"
         android:id="@+id/button"
         android:layout_alignParentBottom="true"
-        android:textSize="30dp"
+        android:textSize="29dp"
         android:background="#a9d00c16"
         android:textColor="#fbfafa" />
 
